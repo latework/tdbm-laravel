@@ -1,5 +1,5 @@
 {
-    "name" : "thecodingmachine/tdbm-laravel",
+    "name" : "latework/tdbm-laravel",
     "description" : "A Laravel service provider package to help you get started with TDBM in Laravel.",
     "keywords" : [
         "ORM",
@@ -22,9 +22,9 @@
     "require" : {
         "php" : ">=7.1",
         "thecodingmachine/tdbm" : "~5.1.0",
-        "illuminate/console": "^5.0 || ^6.0",
-        "illuminate/container": "^5.0 || ^6.0",
-        "illuminate/support": "^5.0 || ^6.0",
+        "illuminate/console": "^5.0 || ^6.0 || ^7.0",
+        "illuminate/container": "^5.0 || ^6.0 || ^7.0",
+        "illuminate/support": "^5.0 || ^6.0 || ^7.0",
         "doctrine/dbal": "^2.0"
     },
     "autoload" : {
