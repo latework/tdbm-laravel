@@ -1,5 +1,5 @@
 {
-    "name" : "latework/tdbm-laravel",
+    "name" : "thecodingmachine/tdbm-laravel",
     "description" : "A Laravel service provider package to help you get started with TDBM in Laravel.",
     "keywords" : [
         "ORM",
